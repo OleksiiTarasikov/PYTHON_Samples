@@ -1,0 +1,2 @@
+def mydecorator(function):
+    def
